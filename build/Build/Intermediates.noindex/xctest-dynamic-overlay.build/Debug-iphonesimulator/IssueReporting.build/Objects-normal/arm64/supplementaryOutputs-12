@@ -1,0 +1,23 @@
+{
+  "/Users/djsly/settle/build/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/Internal/XCTest.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/XCTest.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/XCTest.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/XCTest.dia",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/XCTest.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/XCTest.swiftdeps"
+  },
+  "/Users/djsly/settle/build/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/IsTesting.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/IsTesting.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/IsTesting.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/IsTesting.dia",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/IsTesting.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/IsTesting.swiftdeps"
+  },
+  "/Users/djsly/settle/build/SourcePackages/checkouts/xctest-dynamic-overlay/Sources/IssueReporting/IssueReporter.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/IssueReporter.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/IssueReporter.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/IssueReporter.dia",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/IssueReporter.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/xctest-dynamic-overlay.build/Debug-iphonesimulator/IssueReporting.build/Objects-normal/arm64/IssueReporter.swiftdeps"
+  }
+}

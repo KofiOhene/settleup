@@ -1,0 +1,23 @@
+{
+  "/Users/djsly/settle/build/SourcePackages/checkouts/supabase-swift/Sources/Realtime/Types.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Types.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Types.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Types.dia",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Types.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/Types.swiftdeps"
+  },
+  "/Users/djsly/settle/build/SourcePackages/checkouts/supabase-swift/Sources/Realtime/WebSocket/URLSessionWebSocket.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/URLSessionWebSocket.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/URLSessionWebSocket.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/URLSessionWebSocket.dia",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/URLSessionWebSocket.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/URLSessionWebSocket.swiftdeps"
+  },
+  "/Users/djsly/settle/build/SourcePackages/checkouts/supabase-swift/Sources/Realtime/WebSocket/WebSocket.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/WebSocket.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/WebSocket.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/WebSocket.dia",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/WebSocket.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/WebSocket.swiftdeps"
+  }
+}

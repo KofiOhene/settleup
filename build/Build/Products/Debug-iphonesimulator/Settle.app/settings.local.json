@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xcodegen generate:*)",
+      "Bash(xcodegen version:*)",
+      "Bash(cat:*)",
+      "Bash(python3:*)",
+      "Bash(xcodebuild:*)",
+      "Bash(xcrun simctl list:*)",
+      "Bash(du:*)",
+      "Bash(security find-identity:*)",
+      "Bash(xcrun simctl create:*)",
+      "Bash(xcrun simctl boot:*)",
+      "Bash(open -a Simulator:*)",
+      "Bash(xcrun simctl install:*)",
+      "Bash(xcrun simctl launch:*)",
+      "Bash(xcrun simctl terminate:*)",
+      "Bash(xcrun simctl uninstall:*)"
+    ]
+  }
+}

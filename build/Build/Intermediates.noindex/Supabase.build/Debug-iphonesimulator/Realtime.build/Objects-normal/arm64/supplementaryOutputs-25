@@ -1,0 +1,23 @@
+{
+  "/Users/djsly/settle/build/SourcePackages/checkouts/supabase-swift/Sources/Realtime/PushV2.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/PushV2.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/PushV2.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/PushV2.dia",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/PushV2.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/PushV2.swiftdeps"
+  },
+  "/Users/djsly/settle/build/SourcePackages/checkouts/supabase-swift/Sources/Realtime/RealtimeChannel+AsyncAwait.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/RealtimeChannel+AsyncAwait.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/RealtimeChannel+AsyncAwait.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/RealtimeChannel+AsyncAwait.dia",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/RealtimeChannel+AsyncAwait.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/RealtimeChannel+AsyncAwait.swiftdeps"
+  },
+  "/Users/djsly/settle/build/SourcePackages/checkouts/supabase-swift/Sources/Realtime/RealtimeChannelV2.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/RealtimeChannelV2.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/RealtimeChannelV2.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/RealtimeChannelV2.dia",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/RealtimeChannelV2.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Supabase.build/Debug-iphonesimulator/Realtime.build/Objects-normal/arm64/RealtimeChannelV2.swiftdeps"
+  }
+}

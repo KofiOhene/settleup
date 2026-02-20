@@ -1,0 +1,31 @@
+name: Settle
+options:
+  bundleIdPrefix: com.djsly
+packages:
+  Supabase:
+    url: https://github.com/supabase/supabase-swift
+    from: "2.0.0"
+targets:
+  Settle:
+    type: application
+    platform: iOS
+    deploymentTarget: "16.0"
+    sources:
+      - path: .
+        excludes:
+          - "*.xcodeproj"
+          - "*.xcworkspace"
+          - "project.yml"
+          - "README.md"
+    dependencies:
+      - package: Supabase
+    settings:
+      DEVELOPMENT_TEAM: QGMAWHX827
+      CODE_SIGN_STYLE: Automatic
+      SUPPORTS_MACCATALYST: NO
+      SUPPORTED_PLATFORMS: "iphoneos iphonesimulator"
+      INFOPLIST_KEY_CFBundleDisplayName: Settle
+      INFOPLIST_KEY_UILaunchScreen_Generation: YES
+      INFOPLIST_KEY_UISupportedInterfaceOrientations: "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown"
+      INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad: "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight"
+      GENERATE_INFOPLIST_FILE: YES

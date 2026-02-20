@@ -1,0 +1,109 @@
+{
+  "" : {
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Settle-primary.dia",
+    "emit-module-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Settle-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Settle-primary-emit-module.dia",
+    "pch" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Settle-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Settle-primary.swiftdeps"
+  },
+  "/Users/djsly/settle/AddExpenseView.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AddExpenseView.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AddExpenseView.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AddExpenseView.dia",
+    "index-unit-output-path" : "/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AddExpenseView.o",
+    "llvm-bc" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AddExpenseView.bc",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AddExpenseView.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AddExpenseView.swiftdeps",
+    "swiftmodule" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AddExpenseView~partial.swiftmodule"
+  },
+  "/Users/djsly/settle/AuthViewModel.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AuthViewModel.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AuthViewModel.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AuthViewModel.dia",
+    "index-unit-output-path" : "/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AuthViewModel.o",
+    "llvm-bc" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AuthViewModel.bc",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AuthViewModel.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AuthViewModel.swiftdeps",
+    "swiftmodule" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/AuthViewModel~partial.swiftmodule"
+  },
+  "/Users/djsly/settle/DashboardView.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardView.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardView.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardView.dia",
+    "index-unit-output-path" : "/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardView.o",
+    "llvm-bc" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardView.bc",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardView.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardView.swiftdeps",
+    "swiftmodule" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardView~partial.swiftmodule"
+  },
+  "/Users/djsly/settle/DashboardViewModel.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardViewModel.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardViewModel.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardViewModel.dia",
+    "index-unit-output-path" : "/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardViewModel.o",
+    "llvm-bc" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardViewModel.bc",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardViewModel.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardViewModel.swiftdeps",
+    "swiftmodule" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/DashboardViewModel~partial.swiftmodule"
+  },
+  "/Users/djsly/settle/Expense.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Expense.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Expense.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Expense.dia",
+    "index-unit-output-path" : "/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Expense.o",
+    "llvm-bc" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Expense.bc",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Expense.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Expense.swiftdeps",
+    "swiftmodule" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Expense~partial.swiftmodule"
+  },
+  "/Users/djsly/settle/LandingView.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LandingView.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LandingView.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LandingView.dia",
+    "index-unit-output-path" : "/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LandingView.o",
+    "llvm-bc" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LandingView.bc",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LandingView.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LandingView.swiftdeps",
+    "swiftmodule" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LandingView~partial.swiftmodule"
+  },
+  "/Users/djsly/settle/LoginView.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LoginView.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LoginView.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LoginView.dia",
+    "index-unit-output-path" : "/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LoginView.o",
+    "llvm-bc" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LoginView.bc",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LoginView.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LoginView.swiftdeps",
+    "swiftmodule" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/LoginView~partial.swiftmodule"
+  },
+  "/Users/djsly/settle/SettleApp.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/SettleApp.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/SettleApp.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/SettleApp.dia",
+    "index-unit-output-path" : "/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/SettleApp.o",
+    "llvm-bc" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/SettleApp.bc",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/SettleApp.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/SettleApp.swiftdeps",
+    "swiftmodule" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/SettleApp~partial.swiftmodule"
+  },
+  "/Users/djsly/settle/Supabase.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Supabase.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Supabase.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Supabase.dia",
+    "index-unit-output-path" : "/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Supabase.o",
+    "llvm-bc" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Supabase.bc",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Supabase.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Supabase.swiftdeps",
+    "swiftmodule" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/Supabase~partial.swiftmodule"
+  },
+  "/Users/djsly/settle/WelcomeView.swift" : {
+    "const-values" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/WelcomeView.swiftconstvalues",
+    "dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/WelcomeView.d",
+    "diagnostics" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/WelcomeView.dia",
+    "index-unit-output-path" : "/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/WelcomeView.o",
+    "llvm-bc" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/WelcomeView.bc",
+    "object" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/WelcomeView.o",
+    "swift-dependencies" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/WelcomeView.swiftdeps",
+    "swiftmodule" : "/Users/djsly/settle/build/Build/Intermediates.noindex/Settle.build/Debug-iphonesimulator/Settle.build/Objects-normal/arm64/WelcomeView~partial.swiftmodule"
+  }
+}
